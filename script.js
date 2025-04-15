@@ -1,4 +1,4 @@
-var videoSrc = 'https://sinalprivado.info/m3u8/MQ==/dnotYzIwYTAxMGMtYTk4/MzM4ZTkzMGEtNmY2Ny00NGVkLWI1NTktNzUzZjVlNjZkZWE1.m3u8';
+var videoSrc = 'https://acteiafilmes.s3.us-east-005.backblazeb2.com/A%20Lista%20da%20Minha%20Vida%202025_1254786.mp4';
 
 
 
