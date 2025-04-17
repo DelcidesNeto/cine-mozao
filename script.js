@@ -1,4 +1,4 @@
-var videoSrc = 'https://acteiafilmes.s3.us-east-005.backblazeb2.com/A%20Lista%20da%20Minha%20Vida%202025_1254786.mp4';
+var videoSrc = 'https://c.84rjfh92kldx51.com/file/ctf001/cdn21/Moana.2.2024.HD.DUB.mp4';
 
 
 
