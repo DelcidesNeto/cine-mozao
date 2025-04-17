@@ -1,4 +1,4 @@
-var videoSrc = 'https://c.84rjfh92kldx51.com/file/ctf001/cdn21/Moana.2.2024.HD.DUB.mp4';
+var videoSrc = 'http://hubby.run:80/movie/utxgtx-vods/XXykO3Hbk6/649896.mp4';
 
 
 
