@@ -1,4 +1,4 @@
-var videoSrc = 'http://hubby.run:80/movie/utxgtx-vods/XXykO3Hbk6/649947.mp4';
+var videoSrc = 'http://hubby.run:80/movie/utxgtx-vods/XXykO3Hbk6/649908.mp4';
 
 
 
