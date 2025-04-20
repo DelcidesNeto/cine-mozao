@@ -1,4 +1,4 @@
-var videoSrc = 'http://hubby.run:80/movie/utxgtx-vods/XXykO3Hbk6/649908.mp4';
+var videoSrc = 'https://c.84rjfh92kldx51.com/file/cdnf0003/nacionais/63889.mp4';
 
 
 
